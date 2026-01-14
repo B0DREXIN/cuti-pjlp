@@ -42,9 +42,9 @@ export default async function LaporanPage({
             <CardHeader>
                 <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
                     <div>
-                        <CardTitle className="font-headline">Laporan Saldo Cuti</CardTitle>
+                        <CardTitle className="font-headline">Laporan Sisa Saldo Cuti</CardTitle>
                         <CardDescription>
-                            Menampilkan rekapitulasi saldo cuti tahunan untuk setiap anggota.
+                            Menampilkan rekapitulasi sisa saldo cuti tahunan untuk setiap anggota.
                         </CardDescription>
                     </div>
                     <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
